@@ -1,4 +1,4 @@
-public class But_fly_ticket {
+public class Test1 {
     public static void main(String[] args) {
         double price = calculate(1000, 11, "头等舱");
         System.out.println("优惠价是：" + price);
@@ -43,6 +43,5 @@ public class But_fly_ticket {
 
 
 
-}
 
 
